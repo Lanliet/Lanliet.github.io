@@ -1,7 +1,7 @@
 # Site settings
 title: 無聊齋
-header-img: "img/autumn2.jpg"
-tagline: "秋"  
+header-img: "img/sky.jpg"
+tagline: "空"  
 description: "我看上帝的眼 就是上帝看我的眼"  
 baseurl: ""
 url: "http://lanliet.me"  
@@ -54,7 +54,7 @@ defaults:
     values:
       layout: "post"
       author: "Lanliet"
-      header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/gate.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
 # Comments 

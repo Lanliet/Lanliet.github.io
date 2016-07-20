@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "歡迎光臨"
-header-img: "img/plane.jpg"
+header-img: "img/toko.jpg"
 ---
 
 <center>
