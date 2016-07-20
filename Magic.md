@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Magic"
-description: "我的 Magic Circle"
-header-img: "img/autumn.jpg"
+description: "My Magic Way"
+header-img: "img/magic.jpg"
 ---
 
 
