@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: 反直覺  
-categories: [blog, magic ]  
+categories: [blog, MAGIC, ]  
 tags: [Magic, Logic, ]  
 description: 三門問題的紙牌版  
 ---
