@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "歡迎光臨"
+description: "歡迎敝舍"
 header-img: "img/toko.jpg"
 ---
 
@@ -14,7 +14,7 @@ header-img: "img/toko.jpg"
 ——Lanliet
 
 
-> 願在世無絕
+> 道窮詩亦盡 願在世無絕
 
 <center>
     <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
