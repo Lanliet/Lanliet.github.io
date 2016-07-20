@@ -1,9 +1,11 @@
 ---  
+
 layout: post  
 title: 反直覺  
-categories: [blog, MAGIC, ]  
-tags: [Magic, Logic, ]  
+categories: [blog ]  
+tags: [Logic ]  
 description: 三門問題的紙牌版  
+
 ---
 
 **譯自 *Secret Agenda* p. 292**
