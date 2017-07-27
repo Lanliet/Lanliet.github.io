@@ -14,8 +14,9 @@ description: 辣雞
 
 ## 一
 
+
 <center>
-![Proteus](http://oajalc6uf.bkt.clouddn.com/Proteus.jpg)
+<img src="http://oajalc6uf.bkt.clouddn.com/Proteus.jpg" width="294" height="453" alt="Proteus"/>
 </center>
 
 一眼望去並不花哨的封面，手雖遮住臉，眼睛卻能向外窺，透視你的大腦；黑白紅的配色，儼然讓人想起人類學家 Berlin 與 Kay 於 1969 年的發現，正是「基本顏色詞」[^1]的前三個。封面除了作者和標題，還清楚地表明其為「Drawing Duplication」的效果。
