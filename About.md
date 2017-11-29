@@ -9,7 +9,16 @@ header-img: "img/toko.jpg"
     <p><img src="http://oajalc6uf.bkt.clouddn.com/Amano.png" align="center"></p>
 </center>
 
-一個連漫展都沒去過的僞宅。
+魔術宅、偶像宅。
+柏木由紀/西野七瀨/堀未央奈/渡邊理佐/小池美波
+杜甫/蘇轍/孟郊/屈原
+王文興/錢鍾書/陳寅恪/梁實秋/魯迅/孫璞/王小波/顧隨/張愛玲
+麻耶雄嵩/京極夏彥/三津田信三
+William Shakespear/Gustave Flaubert/Vladimir Nabokov/Ernest Hemingway/Oscar Wilde
+Gabi Pareras/Ascanio/Christian Chelman/Derek Delgaudio/Francis Tabary/Lubor Fiedler/Luis Piedrahita/Pit Hartling/Rene Lavand/Tommy Wonder/Tony Slydini
+
+
+
 
 ——Lanliet
 
