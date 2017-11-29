@@ -17,6 +17,10 @@ header-img: "img/toko.jpg"
 William Shakespear/Gustave Flaubert/Vladimir Nabokov/Ernest Hemingway/Oscar Wilde  
 Gabi Pareras/Ascanio/Christian Chelman/Derek Delgaudio/Francis Tabary/Lubor Fiedler/Luis Piedrahita/Pit Hartling/Rene Lavand/Tommy Wonder/Tony Slydini
 
+Twitter: cGF7k0Myf2zbNWC  
+Ins: lanliet  
+Email: 60rpjclsku2a@gmail.com
+
 
 
 
