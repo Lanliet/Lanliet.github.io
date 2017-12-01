@@ -57,11 +57,7 @@ defaults:
       header-img: "img/gate.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
-# Comments 
----
-layout: default
-comments: true
-# other options
+# Comment
 comment:
     disqus: lanliet
 ---
