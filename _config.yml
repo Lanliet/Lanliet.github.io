@@ -58,8 +58,12 @@ defaults:
 
 
 # Comment
-comment:
-    disqus: lanliet
+---
+disqus_username: Nishino_Nanase
+layout: default
+comments: true
+# other options
+
 ---
 
 # Analytics and webmaster tools stuff goes here
