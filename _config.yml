@@ -57,14 +57,7 @@ defaults:
       header-img: "img/gate.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
-# Comment
----
-provider: uyan
-layout: default
-comments: true
-# other options
 
----
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-66863061-1
