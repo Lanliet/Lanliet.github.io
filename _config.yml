@@ -59,7 +59,7 @@ defaults:
 
 # Comment
 ---
-provider: custom
+provider: uyan
 layout: default
 comments: true
 # other options
