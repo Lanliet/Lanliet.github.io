@@ -18,7 +18,7 @@ gavatar: http://oajalc6uf.bkt.clouddn.com/Amano.png
 favicon: img/favicon.ico
 
 douban_username: Lanliet
-twitter_username: Lanliet1
+twitter_username: cGF7k0Myf2zbNWC
 github_username: Lanliet 
 facebook_username: Lanliet 
 weibo_username: lanliet  
@@ -62,6 +62,8 @@ defaults:
 layout: default
 comments: true
 # other options
+comment:
+    disqus: lanliet
 ---
 
 # Analytics and webmaster tools stuff goes here
