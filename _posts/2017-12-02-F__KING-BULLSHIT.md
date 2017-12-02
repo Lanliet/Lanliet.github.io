@@ -32,17 +32,17 @@ description:
 
 例一：
 
-> 魔术师：Paul Daniels 是一个伟大的魔术师。
+> 魔术师：Paul Daniels 是一个伟大的魔术师。  
 > 你：我很少说他「伟大」……**Max Malini** 才「伟大」。
 
 或者
 
-> 魔术师：我觉得 Paul Daniels 很菜。
+> 魔术师：我觉得 Paul Daniels 很菜。  
 > 你：不管怎么说，他当然比**你**要好……他做**一些东西**肯定很好。
 
 例二：
 
-> 魔术师：Charlie Miller 的 Dunbury Delusion——多么经典的魔术！
+> 魔术师：Charlie Miller 的 Dunbury Delusion——多么经典的魔术！  
 > 你：怎能和 Vernon 的 Fingerprint Card Trick 比呢……
 
 11、阅读莎士比亚的《奥赛罗》，并研究埃古的性格。尽可能效仿他，然后在魔术师当中「挑拨离间」，让他们反目成仇。努力在某个魔术的起源、其他魔术师的诚实等方面「播种怀疑的种子」，散布越多的苦难越好。
