@@ -6,6 +6,8 @@ tags: [Logic ]
 description: 三門問題的紙牌版
 ---
 
+# 反直覺
+
 **譯自 *Secret Agenda* p. 292**
 
 **作者：Roberto Giobbi**
