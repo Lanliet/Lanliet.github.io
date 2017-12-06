@@ -11,11 +11,11 @@ description:
 收到了堀未央奈的寫真集《君らしさ》（你的風格）。
 
 <center>
-![Hori1]（http://oajalc6uf.bkt.clouddn.com/Hori1.jpg）
+![Hori1](http://oajalc6uf.bkt.clouddn.com/Hori1.jpg)
 </center>
 
 <center>
-![Hori2]（http://oajalc6uf.bkt.clouddn.com/Hori2.jpg）
+![Hori2](http://oajalc6uf.bkt.clouddn.com/Hori2.jpg)
 </center>
 
 嗚嗚嗚可愛哭了。我也喜歡你的風格。
