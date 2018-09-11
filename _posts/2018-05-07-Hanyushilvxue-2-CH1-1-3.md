@@ -2,7 +2,7 @@
 layout: post
 title: 王力《漢語詩律學》筆記（二）——第一章：近體詩（律詩、排律、絕句）
 categories: [blog ]
-tags: [Literature ]
+tags: [詩律 ]
 description:
 ---
 

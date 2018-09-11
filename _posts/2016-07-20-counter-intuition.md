@@ -2,8 +2,7 @@
 layout: post
 title: 反直覺
 categories: [blog ]
-tags: [Logic ]
-description: 三門問題的紙牌版
+tags: [邏輯 ]
 ---
 
 # 反直覺

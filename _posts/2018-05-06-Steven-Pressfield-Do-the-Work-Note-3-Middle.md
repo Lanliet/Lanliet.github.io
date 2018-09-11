@@ -2,7 +2,7 @@
 layout: post
 title: Steven Pressfield - Do The Work 筆記（三）——2 中間
 categories: [blog ]
-tags: [Self-Help ]
+tags: [自助 ]
 description:
 ---
 
@@ -275,7 +275,7 @@ Stephen King 說他每天都工作。7 月 4 好，他生日，聖誕節都在�
 
 如果你選了 8 或 9，你可以留在島上了（雖然只有一個正確答案，但 8 和 9 確實是一個答案。）
 
-如果你選了前面 7 個，你也可以留下來——但你必須立刻在態度調整會議室（Attitude Adjustment Chamber）當中檢查一下自己 
+如果你選了前面 7 個，你也可以留下來——但你必須立刻在態度調整會議室（Attitude Adjustment Chamber）當中檢查一下自己
 
 ## 態度調整會議室
 

@@ -2,7 +2,7 @@
 layout: post
 title: 善良的我
 categories: [blog ]
-tags: [Life ]
+tags: [日記 ]
 description:
 ---
 

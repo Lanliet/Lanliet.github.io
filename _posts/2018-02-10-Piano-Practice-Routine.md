@@ -2,7 +2,7 @@
 layout: post
 title: 鋼琴練習流程的綱要
 categories: [blog ]
-tags: [Music, Piano ]
+tags: [鋼琴 ]
 description:
 ---
 

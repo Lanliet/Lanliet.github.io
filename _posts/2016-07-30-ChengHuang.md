@@ -2,8 +2,7 @@
 layout: post
 title: 亂彈《考城隍》
 categories: [blog ]
-tags: [Literature, Strange Stories from a Chinese Studio ]
-description: 隨便說說
+tags: [文學, 聊齋誌異 ]
 ---
 
 # 亂彈《考城隍》

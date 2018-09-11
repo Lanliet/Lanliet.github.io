@@ -2,7 +2,7 @@
 layout: post
 title: 關於「LII-kelihood」與夢境
 categories: [blog ]
-tags: [Magic ]
+tags: [魔術 ]
 description:
 ---
 

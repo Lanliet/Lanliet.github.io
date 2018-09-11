@@ -2,7 +2,7 @@
 layout: post
 title: Steven Pressfield - Do The Work 筆記（二）——1 開端
 categories: [blog ]
-tags: [Self-Help ]
+tags: [自助 ]
 description:
 ---
 

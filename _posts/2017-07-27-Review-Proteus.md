@@ -2,8 +2,7 @@
 layout: post
 title: Phedon Bilek - Proteus 書評
 categories: [blog ]
-tags: [Magic ]
-description: 辣雞
+tags: [魔術 ]
 ---
 
 # Phedon Bilek - Proteus 書評

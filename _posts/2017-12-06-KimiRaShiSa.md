@@ -2,7 +2,7 @@
 layout: post
 title: 你的風格
 categories: [blog ]
-tags: [Life ]
+tags: [日記 ]
 description:
 ---
 
