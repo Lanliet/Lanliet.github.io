@@ -6,20 +6,52 @@ header-img: "img/ship.jpg"
 ---
 
 
-<div id="post-list">
-{% for tag in site.tags %}
-<h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
-<ul class="post-list">
-{% assign pages_list = tag[1] %}
-{% for post in pages_list %}
-{% if post.title != null %}
-{% if group == null or group == post.group %}
-<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}<span class="entry-date"> ~ <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %d, %Y" }}</time></a></li>
-{% endif %}
-{% endif %}
+<h2>Posts by Tag</h2>
+{% assign sorted_tags = site.tags | sort %}
+{% for category in sorted_categories %}
+  <h4>{{ tag | first }}</h4>
+    <ul>
+    {% for posts in tag %}
+      {% for post in posts reversed %}
+        {% if post.url %}
+          <li>
+            <a href="{{ post.url }}">
+              {% comment %} If the post has an empty title (because it's a "short") then display the first few words instead of the title. {% endcomment %}
+              {% if post.title == "" %}
+                {{ post.content | strip_html | truncatewords: 7 }}
+              {% else %}
+                {{ post.title }}
+              {% endif %}
+            </a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    </ul>
 {% endfor %}
-{% assign pages_list = nil %}
-{% assign group = nil %}
-</ul>
+
+<br>
+
+<h2>Posts by Date</h2>
+
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h4 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h4>
+    <ul>
+    {% assign date = currentdate %}
+  {% endif %}
+    <li>
+      <span class="post-list-date">{{ post.date | date: '%B %d, %Y' }}</span>
+      <a class="post-list" href="{{ post.url }}">
+        {% comment %} If the post has an empty title (because it's a "short") then display the first few words instead of the title. {% endcomment %}
+        {% if post.title == "" %}
+          {{ post.content | strip_html | truncatewords: 7 }}
+        {% else %}
+          {{ post.title }}
+        {% endif %}
+      </a>
+    </li>
+  {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
-</div>
