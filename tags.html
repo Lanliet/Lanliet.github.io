@@ -8,7 +8,7 @@ header-img: "img/ship.jpg"
 
 <h2>Posts by Tag</h2>
 {% assign sorted_tags = site.tags | sort %}
-{% for category in sorted_categories %}
+{% for tag in sorted_tags %}
   <h4>{{ tag | first }}</h4>
     <ul>
     {% for posts in tag %}
