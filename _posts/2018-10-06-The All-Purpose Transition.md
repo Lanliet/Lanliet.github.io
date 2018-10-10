@@ -6,11 +6,9 @@ tags: [魔術 ]
 description:
 ---
 
-# 万能过渡 by Andy
+# 【翻译】万能过渡 by Andy
 
-原文：[The All-Purpose Transition](http://www.thejerx.com/blog/2018/6/3/the-all-purpose-transition)
-
-Translated by Lanliet
+[原文](http://www.thejerx.com/blog/2018/6/3/the-all-purpose-transition)
 
 这会对那些有一定关心自己表演程度的业余／社交魔术师有很大帮助。我知道会这样，因为我就是那样的人，而这是我在最近几年最常使用的「发现」。
 
