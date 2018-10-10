@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 万能过渡 by Andy
+title: 【翻译】万能过渡
 categories: [blog ]
 tags: [魔術 ]
 description:
 ---
 
-# 【翻译】万能过渡 by Andy
+# 【翻译】万能过渡
 
 [原文](http://www.thejerx.com/blog/2018/6/3/the-all-purpose-transition)
 
