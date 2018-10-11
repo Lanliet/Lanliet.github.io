@@ -1,5 +1,5 @@
 ---
-layout: Magic
+layout: post
 title: 【翻译】万能过渡
 categories: [blog ]
 tags: [魔術 ]
