@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Max Maven 不高興了
-categories: [magic ]
+categories: [blog ]
 tags: [魔術 ]
 description:
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 王力《漢語詩律學》筆記（一）——導言
-categories: [public ]
+categories: [blog ]
 tags: [詩律 ]
 description:
 ---

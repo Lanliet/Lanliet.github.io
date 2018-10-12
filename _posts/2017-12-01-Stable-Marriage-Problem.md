@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 讀者的穩定婚姻問題
-categories: [public ]
+categories: [blog ]
 tags: [日記 ]
 description:
 ---

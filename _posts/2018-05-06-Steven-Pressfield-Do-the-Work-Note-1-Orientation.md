@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Steven Pressfield - Do The Work 筆記（一）——方向：敵人和盟友
-categories: [public ]
+categories: [blog ]
 tags: [自助 ]
 description:
 ---

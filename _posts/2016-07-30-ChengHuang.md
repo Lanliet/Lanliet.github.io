@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 亂彈《考城隍》
-categories: [public ]
+categories: [blog ]
 tags: [文學, 聊齋誌異 ]
 ---
 

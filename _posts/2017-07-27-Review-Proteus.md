@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Phedon Bilek - Proteus 書評
-categories: [public ]
+categories: [blog ]
 tags: [魔術 ]
 ---
 

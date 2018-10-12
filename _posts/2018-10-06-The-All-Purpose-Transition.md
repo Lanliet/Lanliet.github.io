@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【翻译】万能过渡
-categories: [magic ]
+categories: [blog ]
 tags: [魔術 ]
 description:
 ---

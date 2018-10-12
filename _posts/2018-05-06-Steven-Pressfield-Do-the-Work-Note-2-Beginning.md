@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Steven Pressfield - Do The Work 筆記（二）——1 開端
-categories: [public ]
+categories: [blog ]
 tags: [自助 ]
 description:
 ---

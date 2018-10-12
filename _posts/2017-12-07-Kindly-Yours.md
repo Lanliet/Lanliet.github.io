@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 善良的我
-categories: [diary ]
+categories: [blog ]
 tags: [日記 ]
 description:
 ---
