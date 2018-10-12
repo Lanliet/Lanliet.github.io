@@ -17,7 +17,7 @@ header-img: "img/magic.jpg"
 
 ### 表演
 
-1. Overhand Shuffle，一開始超過一半，in-jog，洗剩下。在 in-jog 處提起，run 6 張，形成兩疊，讓觀衆 Riffle Shuffle（Gilbreath Principle）。
+1. Overhand Shuffle，一開始超過一半，in-jog，洗剩下。在 in-jog 處提起，run 5 張，形成兩疊，讓觀衆 Riffle Shuffle（Gilbreath Principle）。
 2. 面朝上 Overhand Shuffle，第一次的時候 Milk，和（面朝下時的）頂牌一起撥到左手，一張一張 Peel，同時心裏數張數（第一次同時撥頂底牌記作「1」）讓觀衆說停，左手牌面朝下放到桌上。繼續 Overhand Shuffle，同樣 milk 頂底，繼續在心裏數張數，讓觀衆說停，左手疊面朝下放到第一疊旁邊。以此類推，直到桌上有 5 疊牌。
 3. 這時用 47 減去你數的張數，就是右手牌的張數，Peek 頂牌和底牌，分別爲 Key 1 和 Key 2。觀衆拿走桌上 5 疊的頂牌，選一張記住，放到任何一疊上，從你手上切一疊放到上面，桌上五疊牌任意次序疊成一疊，最後你手上的牌放到上面。
 4. 用 UnDo Influence control，將選牌控到剛才記住的位置上。面朝下拿起觀衆選剩下的 4 張牌，假裝稱重，將選牌切到第 16 張。
