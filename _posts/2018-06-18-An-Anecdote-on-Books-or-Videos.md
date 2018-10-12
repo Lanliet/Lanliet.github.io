@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 關於看書還是看視頻的一則趣事
-categories: [blog ]
+categories: [magic ]
 tags: [魔術 ]
 description:
 ---

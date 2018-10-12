@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 你的風格
-categories: [blog ]
+categories: [diary ]
 tags: [日記 ]
 description:
 ---

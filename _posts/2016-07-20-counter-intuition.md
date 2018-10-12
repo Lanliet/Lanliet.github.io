@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 反直覺
-categories: [blog ]
+categories: [public ]
 tags: [邏輯 ]
 ---
 

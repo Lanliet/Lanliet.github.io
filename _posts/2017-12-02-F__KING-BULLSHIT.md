@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 论如何成为一名真正「内行」的冒牌权威秘密商人／小偷／骗子／探索不朽者／恶毒混蛋等 BY 哥谭市的戈登警官和布鲁斯·韦恩
-categories: [blog ]
+categories: [magic ]
 tags: [魔術 ]
 description:
 ---
