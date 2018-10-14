@@ -9,19 +9,17 @@ header-img: "img/toko.jpg"
     <p><img src="http://oajalc6uf.bkt.clouddn.com/Amano.png" align="center"></p>
 </center>
 
-* 魔術宅、偶像宅。
-* 柏木由紀/西野七瀨/堀未央奈/渡邊理佐/小池美波/鈴木愛理  
-* 杜甫/蘇轍/孟郊/屈原   
-* 王文興/錢鍾書/陳寅恪/梁實秋/魯迅/孫璞/王小波/顧隨/張愛玲  
-* 麻耶雄嵩/京極夏彥/三津田信三
-* William Shakespear/Gustave Flaubert/Vladimir Nabokov/Ernest Hemingway/Oscar Wilde  
-* Franz Liszt/Charles-Valentin Alkan/Frédéric Chopin/Nikolai Kapustin
-* Marc-André Hamelin/森下唯/張昊辰
-* Gabi Pareras/Ascanio/Christian Chelman/Francis Tabary/Lubor Fiedler/Luis Piedrahita/Pit Hartling/Rene Lavand/Tommy Wonder/Tony Slydini/Stewart James/Juan Tamariz
+* 魔術宅／偶像宅
+* 柏木由紀／西野七瀬／鈴木愛理  
+* 杜甫／孟郊／蘇轍／屈原   
+* 陳寅恪／顧隨／梁實秋／魯迅／錢鍾書／孫璞／王文興／王小波／張愛玲  
+* 京極夏彥／麻耶雄嵩／三津田信三
+* Grigory Sokolov／Krystian Zimerman／Marc-André Hamelin／Sergio Fiorentino／森下唯／張昊辰
 
 
 
-* Email: 60rpjclsku2a@gmail.com
+* Email：60rpjclsku2a@gmail.com
+* Wechat：764869155
 
 
 
