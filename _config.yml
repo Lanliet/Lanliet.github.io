@@ -66,8 +66,4 @@ google_verify:
 bing_verify:
 
 # Links to include in footer navigation
-
-collections:
-  microblog:
-    output: true
-    permalink: /microblog/:year/:month/:slug/
+theme: jekyll-theme-architect
