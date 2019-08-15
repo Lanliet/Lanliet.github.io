@@ -1,19 +1,27 @@
 ---
-layout: default
-pagination:
-  enabled: true
-  collection: posts, microblog
-  per_page: 10 # Number of entries per page
-  permalink: "page/:num/" # Permalink structure
-  sort_reverse: true # Newest first
+layout: page
+description: "偶開天眼覷紅塵 可憐身是眼中人"
 ---
 
 {% for post in paginator.posts %}
-	{% if post.collection == 'microblog' %}
-		{% include microblog.html %}
-	{% else %}
-		{% include post.html %}
-	{% endif %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">            
+            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+        <div class="post-content-preview">
+            {{ post.content | strip_html | truncate:150 }}
+        </div>
+    </a>
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+</div>
+
+<hr>
 {% endfor %}
 
 <!-- Pager -->
