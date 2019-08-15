@@ -1,3 +1,8 @@
+collections:
+  microblog:
+    output: true
+    permalink: /microblog/:year/:month/:slug/
+
 # Site settings
 title: 無聊齋
 header-img: "img/sky.jpg"
