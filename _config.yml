@@ -1,14 +1,14 @@
 # Site settings
 title: 無聊齋
 header-img: "img/sky.jpg"
-tagline: "空"  
-description: "偶開天眼覷紅塵 可憐身是眼中人"  
+tagline: "空"
+description: "偶開天眼覷紅塵 可憐身是眼中人"
 baseurl: ""
-url: "http://lanliet.me"  
+url: "http://lanliet.me"
 #url: "http://localhost:4000"
 
 # About/contact
-owner: 
+owner:
   name: "Lanliet"
   email: Lanliet@hotmail.com
   bio: "道窮詩亦盡 願在世無絕"
@@ -19,20 +19,20 @@ favicon: img/favicon.ico
 
 douban_username: Lanliet
 twitter_username: cGF7k0Myf2zbNWC
-github_username: Lanliet 
-facebook_username: Lanliet 
-weibo_username: lanliet  
-zhihu_username: he-chen-lan 
+github_username: Lanliet
+facebook_username: Lanliet
+weibo_username: lanliet
+zhihu_username: he-chen-lan
 
-# Build settings  
-# use Github Flavored Markdown !important  
-# document: http://jekyllrb.com/docs/configuration/#kramdown  
+# Build settings
+# use Github Flavored Markdown !important
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 kramdown:
   input: GFM
 highlighter: rouge
 
-gems: 
+gems:
 - jekyll-gallery-generator
 - jekyll-paginate
 permalink: none
@@ -48,7 +48,7 @@ timezone: Asia/Shanghai
 # Defaults for posts
 defaults:
   -
-    scope: 
+    scope:
       path: ""
       type: "posts"
     values:
@@ -66,3 +66,8 @@ google_verify:
 bing_verify:
 
 # Links to include in footer navigation
+
+collections:
+  microblog:
+    output: true
+    permalink: /microblog/:year/:month/:slug/
