@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 許久不見的流水賬
+title: 給我的 Jekyll 博客添加 Gitalk
 categories: [blog ]
 tags: [折騰 ]
 description:
