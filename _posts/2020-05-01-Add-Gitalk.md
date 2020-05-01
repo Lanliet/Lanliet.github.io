@@ -16,7 +16,8 @@ description:
 
 接下來在 `_layouts/posts.html` 裏，正文以下的位置添加如下代碼：
 
-```<!-- Gitalk start -->
+```
+<!-- Gitalk start -->
 <div id="gitalk-container"></div> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
 <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
 <script>
