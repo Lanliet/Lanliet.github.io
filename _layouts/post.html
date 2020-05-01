@@ -103,12 +103,12 @@ layout: default
 <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
 <script>
   var gitalk  = new Gitalk ({
+      id: window.location.pathname,
       clientID: '8780970389b7bd2c700d',
       clientSecret: '91ee31fc4a294d6e59f4217207d07d5917053722',
       repo: 'Lanliet.github.io',
       owner: 'Lanliet,
       admin: ['Lanliet'],
-      id: location.pathname,
       distractionFreeMode: false  // Facebook-like distraction free mode
       })
       gitalk.render('gitalk-container')
