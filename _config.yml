@@ -67,8 +67,3 @@ bing_verify:
 
 # Links to include in footer navigation
 theme: jekyll-theme-architect
-
-comment_gitalk_clientId: 8780970389b7bd2c700d
-comment_gitalk_clientSecret: 91ee31fc4a294d6e59f4217207d07d5917053722
-comment_gitalk_repo: Lanliet.github.io
-github_username: Lanliet
