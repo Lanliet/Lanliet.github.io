@@ -70,6 +70,6 @@ theme: jekyll-theme-architect
 
 # Gitalk settings
 comment_gitalk_clientId: e51e5aa6556efd4d06f2
-comment_gitalk_clientSecret: dac9879751310a51ac3d21c3b8884806c13be32f
+comment_gitalk_clientSecret: 9cc1950d29d584894433f3d85d4391ea23304b09
 comment_gitalk_repo: Lanliet.github.io
 github_username: Lanliet
