@@ -68,12 +68,12 @@ bing_verify:
 # Links to include in footer navigation
 theme: jekyll-theme-architect
 
-comments:
-  gitalk: true
-  gitalk_clientID: '8780970389b7bd2c700d'
-  gitalk_Secret: '91ee31fc4a294d6e59f4217207d07d5917053722'
-  gitalk_repo: 'Lanliet.github.io'
-  gitalk_owner: 'Lanliet'
-  gitalk_admin: 'Lanliet'
-  distractionFreeMode: true
-  gitalk_dfm: false
+
+gitalk: true
+gitalk_clientID: 8780970389b7bd2c700d
+gitalk_Secret: 91ee31fc4a294d6e59f4217207d07d5917053722
+gitalk_repo: Lanliet.github.io
+gitalk_owner: Lanliet
+gitalk_admin: Lanliet
+distractionFreeMode: true
+gitalk_dfm: false
