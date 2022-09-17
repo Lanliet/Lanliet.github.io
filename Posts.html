@@ -14,7 +14,7 @@ header-img: "img/ship_tinified.jpg"
     {% assign date = currentdate %}
   {% endif %}
     <li>
-      <span class="post-list-date">{{ post.date | date: '%B %d, %Y' }}</span>
+      <span class="post-list-date">{{ post.date | date: '%Y-%m-%d' }}</span>
       <a class="post-list" href="{{ post.url }}">
         {% comment %} If the post has an empty title (because it's a "short") then display the first few words instead of the title. {% endcomment %}
         {% if post.title == "" %}
