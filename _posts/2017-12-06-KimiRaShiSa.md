@@ -11,9 +11,9 @@ description:
 收到了堀未央奈的寫真集《君らしさ》（你的風格）。
 
 
-![hori1](D:\Users\Lanliet\Documents\GitHub\Lanliet\Pictures\190847483-a45249fb-af75-4140-b45d-e7d4ae3a9caa.jpg)
+![hori1](https://user-images.githubusercontent.com/17661845/190847483-a45249fb-af75-4140-b45d-e7d4ae3a9caa.jpg)
 
-![hori2](D:\Users\Lanliet\Documents\GitHub\Lanliet\Pictures\190847487-23af9f16-9434-4855-9c91-801a0463b39a.jpg)
+![hori2](https://user-images.githubusercontent.com/17661845/190847487-23af9f16-9434-4855-9c91-801a0463b39a.jpg)
 
 嗚嗚嗚可愛哭了。我也喜歡你的風格。
 
