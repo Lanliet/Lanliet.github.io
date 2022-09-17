@@ -1,6 +1,6 @@
 # Site settings
 title: 無聊齋
-header-img: "img/sky.jpg"
+header-img: "img/sky_tinified.jpg"
 tagline: "空"
 description: "偶開天眼覷紅塵 可憐身是眼中人"
 baseurl: ""
@@ -14,7 +14,7 @@ owner:
   bio: "道窮詩亦盡 願在世無絕"
 
 # Data
-gavatar: http://oajalc6uf.bkt.clouddn.com/Amano.png
+gavatar: https://user-images.githubusercontent.com/17661845/190845780-34b44d96-093c-448b-98fa-44fafb8a0544.jpg
 favicon: img/favicon.ico
 
 douban_username: Lanliet
@@ -54,7 +54,7 @@ defaults:
     values:
       layout: "post"
       author: "Lanliet"
-      header-img: "img/gate.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/gate_tinified.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
 
