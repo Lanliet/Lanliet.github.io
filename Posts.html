@@ -5,8 +5,6 @@ description: "我的航海誌"
 header-img: "img/ship_tinified.jpg"
 ---
 
-<h2>Posts by Date</h2>
-
 {% for post in site.posts %}
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
