@@ -2,35 +2,8 @@
 layout: page
 title: Posts
 description: "我的航海誌"
-header-img: "img/ship.jpg"
+header-img: "img/ship_tinified.jpg"
 ---
-
-
-<h2>Posts by Tag</h2>
-{% assign sorted_tags = site.tags | sort %}
-{% for tag in sorted_tags %}
-  <h4>{{ tag | first }}</h4>
-    <ul>
-    {% for posts in tag %}
-      {% for post in posts reversed %}
-        {% if post.url %}
-          <li>
-            <a href="{{ post.url }}">
-              {% comment %} If the post has an empty title (because it's a "short") then display the first few words instead of the title. {% endcomment %}
-              {% if post.title == "" %}
-                {{ post.content | strip_html | truncatewords: 7 }}
-              {% else %}
-                {{ post.title }}
-              {% endif %}
-            </a>
-          </li>
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-    </ul>
-{% endfor %}
-
-<br>
 
 <h2>Posts by Date</h2>
 
